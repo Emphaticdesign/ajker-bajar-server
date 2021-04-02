@@ -19,6 +19,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 const port = 5000;
 
+app.get('/', (req, res) => {
+    res.send("hello it's working")
+})
+
 
 
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
