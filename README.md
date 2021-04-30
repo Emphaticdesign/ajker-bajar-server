@@ -1,4 +1,5 @@
-# project detail'sIt’s a Shopping Mall Website You Can Buy Anything What You
+# project detail's : 
+It’s a Shopping Mall Website You Can Buy Anything What You
 Want Your Daily Life.Admin can add a new product. Admin add a product and delate product.
 
 
